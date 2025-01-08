@@ -5,3 +5,7 @@
 Lambda expressions and anonymous functions - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions
 
 Делегати, події. LINQ - https://materials.itstep.org/content/5b7f9ba3-7f31-44a4-9fa7-26782dcb5d08/uk
+
+Lambda expressions and anonymous functions - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions
+
+Unit testing C# with MSTest and .NET - https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest
